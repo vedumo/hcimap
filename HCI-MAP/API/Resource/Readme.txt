@@ -1,0 +1,1 @@
+Place automaticaly loaded DB resource in 'DB.resource.php' file. 
